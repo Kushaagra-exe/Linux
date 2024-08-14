@@ -1,0 +1,11 @@
+
+ssh bandit0@bandit.labs.overthewire.org -p 2220
+
+password: ZjLjTmM6FvvyRnrb2rfNWOZOTa6ip5If
+
+pwd
+cd ..
+cd bandit1
+
+cat < -
+logout

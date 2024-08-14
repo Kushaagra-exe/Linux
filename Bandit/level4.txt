@@ -1,0 +1,23 @@
+
+ssh bandit4@bandit.labs.overthewire.org -p 2220
+
+password: 2WmrDFRmJIq3IPxneAaMGhap0pFhF3NJ\
+
+cd inhere/
+
+ls
+
+-file00  -file02  -file04  -file06  -file08
+
+-file01  -file03  -file05  -file07  -file09
+
+
+file ./-*
+
+
+cat <-file07
+
+4oQYVPkxZOOEOO5pTW81FB8j8lxXGUQw
+
+
+
